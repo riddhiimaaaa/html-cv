@@ -7,4 +7,4 @@ My first HTML-only CV built using HTML.
 Open `index.html` in a web browser.
 
 ## Project URL
-https://riddhiimaaaa.github.io/html-cv/
+[Live Project](https://riddhiimaaaa.github.io/html-cv/)
