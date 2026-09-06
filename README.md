@@ -8,4 +8,4 @@ Open `index.html` in a web browser.
 
 ## Project URL
 
-https://riddhiimaaaa.github.io/html-cv/
+https://github.com/riddhiimaaaa/html-cv/blob/main/index.html
